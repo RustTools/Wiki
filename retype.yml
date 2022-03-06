@@ -1,0 +1,15 @@
+input: .
+output: .retype
+url: wiki.rusttools.xyz
+branding:
+  title: Rust Tools
+  label: Wiki
+links:
+  - text: Website
+    link: https://rusttools.xyz
+  - text: Support
+    link: https://support.rusttools.xyz
+  - text: GitHub
+    link: https://github.rusttools.xyz
+footer:
+  copyright: "&copy; Copyright {{ year }}. All rights reserved."
