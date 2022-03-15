@@ -4,6 +4,7 @@ url: wiki.rusttools.xyz
 branding:
   title: Rust Tools
   label: Wiki
+  logo: static/logo.png
 links:
   - text: Website
     link: https://rusttools.xyz
@@ -11,5 +12,7 @@ links:
     link: https://support.rusttools.xyz
   - text: GitHub
     link: https://github.rusttools.xyz
+edit:
+  repo: "https://github.com/RustTools/Wiki"
 footer:
   copyright: "&copy; Copyright {{ year }}. All rights reserved."
